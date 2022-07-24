@@ -1,6 +1,88 @@
+# class MyClass:
+#     i = 12345
+#     def f(self):
+#         return 'hello world'
+#
+# def __init__(self):
+#     self.data = []
+#
+# x = MyClass()
+#
+# class Complex:
+#     def __init__(self, realpart, imagpart):
+#         self.r = realpart
+#         self.i = imagpart
+#
+# x = Complex(3.0, -4.5)
+# x.r, x.i
+#
+# x.counter = 1
+# while x.counter < 10:
+#     x.counter = x.counter * 2
+# print(x.counter)
+# def x.counter
+#
+# x.f()
+# xf = x.f
+# while True
+#     print(xf())
+#
+# class Dog:
+#     kind = 'canine'
+#     def __init__(self, name):
+#         self.name = name
+#
+#     d = Dog('Fido')
+#     e = Dog('Buddy')
+#     d.kind
+#     'canine'
+#     e.kind
+#     'canine'
+#     d.name
+#     'Fido'
+#     e.name
+#     'Buddy'
+#
+# class Dog:
+#     tricks = []
+#     def __init__(self, name):
+#         self.name = name
+#
+#     def add_trick(self, trick):
+#         self.tricks.append(trick)
+#
+#
+# class Dog:
+#     def __init__(self, name):
+#         self.name = name
+#         self.tricks = []
+#
+#     def add_trick(self, trick):
+#         self.tricks.append(trick)
 
 
 
+# fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+# fruits.count('apple')
+# fruits.count('tangerine')
+# fruits.index('banana')
+# fruits.index('banana')
+# fruits.reverse()
+# fruits
+# fruits.append('grape')
+# fruits.sort()
+# fruits
+# fruits.pop()
+#
+#
+# squares = []
+# for x in range(10):
+#     squares.append(x**2)
+#
+# squares
+#
+# squares = list(map(lambda x: x**2, range))
+# squares = [x**2 for x in range(10)]
 
 # def stadard_arg(arg):
 #     print(arg)
